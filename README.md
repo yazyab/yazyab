@@ -42,7 +42,7 @@
  **PDA Credit Defaulter Prediction**: A machine learning model to predict credit defaulters with high accuracy. [GitHub Repo](https://github.com/yazyab/PDACreditDefaulterPrediction)  
 
 📫 **Connect With Me**  
-[LinkedIn](#) |
+- **[LinkedIn](https://www.linkedin.com/in/yyabroudi/)**  
 
 I'm always open to new collaborations and ideas. Let's push the boundaries of data analytics and business intelligence together!  
 
