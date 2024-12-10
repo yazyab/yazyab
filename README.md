@@ -36,8 +36,7 @@
 🚀 **Projects Showcase**  
 ## 🚀 Projects Showcase
 
-- **Pollution Monitoring Using R**: Course Project 2 - Analyzing pollution levels across the USA with R Studio.  
-- **Global Energy Consumption Analysis**: ExData Plotting1 - Investigating global energy consumption trends with R Studio.  
+- **[Pollution Monitoring Using R](https://github.com/yazyab/Pollution-Monitoring-R-Project)**: Course Project 2 - Analyzing pollution levels across the USA with R Studio.  
 - **CAF Capstone Project**: Investigating CAF train energy efficiencies using Python. [GitHub Repo](https://github.com/yazyab/CAF_Capstone_project)  
 - **Binary Prediction of Smoker Status**: Developed machine learning models to predict smoking status using bio-signals. [GitHub Repo](https://github.com/yazyab/Binary-prediction-of-Smoker-status-using-Bio-Signals)  
 - **PDA Credit Defaulter Prediction**: A machine learning model to predict credit defaulters with high accuracy. [GitHub Repo](https://github.com/yazyab/PDACreditDefaulterPrediction)  
