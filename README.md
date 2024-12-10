@@ -5,10 +5,36 @@
 
 ## 🛠️ Skills
 
-- **Languages**: Python, LaTeX, PySpark  
-- **Web Development**: Streamlit  
-- **Databases**: MongoDB, MySQL, Hadoop, Apache Kafka  
-- **Tools**: VSCode, Looker, Tableau
+<div align="center">
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-green?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-orange?style=for-the-badge&logo=apache-spark&logoColor=white" />
+</p>
+
+### Web Development
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-lightblue?style=for-the-badge&logo=apache-hadoop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-black?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+</p>
+
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker-purple?style=for-the-badge&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-orange?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
+
+</div>
 
 🚀 **Projects Showcase**  
 **Pollution Monitoring Using R**: Course Project 2 - Analyzing pollution levels across the USA with R Studio.  
