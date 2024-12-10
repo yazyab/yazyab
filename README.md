@@ -5,8 +5,6 @@
 
 ## 🛠️ Skills
 
-<div align="center">
-
 ### Languages
 <p>
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" />
@@ -34,7 +32,6 @@
   <img src="https://img.shields.io/badge/Tableau-orange?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
-</div>
 
 🚀 **Projects Showcase**  
 **Pollution Monitoring Using R**: Course Project 2 - Analyzing pollution levels across the USA with R Studio.  
