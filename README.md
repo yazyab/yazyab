@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Apache%20Kafka-black?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 </p>
 
-** Tools**
+**Tools**
 <p>
   <img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Looker-purple?style=for-the-badge&logo=looker&logoColor=white" />
@@ -39,7 +39,7 @@
 **Capstone Final Project, IE University**: Investigating CAF train energy efficiencies using Python.  
 
 📫 **Connect With Me**  
-[LinkedIn](#) | [Email](yazyab@gmail.com)  
+[LinkedIn](#) | [Email](#)  
 
 I'm always open to new collaborations and ideas. Let's push the boundaries of data analytics and business intelligence together!  
 
