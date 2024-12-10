@@ -5,19 +5,19 @@
 
  **🛠️ Skills**
 
-### Languages
+ ** Languages**
 <p>
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-green?style=for-the-badge&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/PySpark-orange?style=for-the-badge&logo=apache-spark&logoColor=white" />
 </p>
 
-### Web Development
+** Web Development**
 <p>
   <img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-### Databases
+** Databases**
 <p>
   <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Apache%20Kafka-black?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 </p>
 
-### Tools
+** Tools**
 <p>
   <img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Looker-purple?style=for-the-badge&logo=looker&logoColor=white" />
