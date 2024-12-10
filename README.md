@@ -3,7 +3,7 @@
 🎓 **About Me**  
 🔍 **Who I Am**: I'm currently on an exciting journey, having completed my Master's in Business Analytics and Big Data. My passion lies in leveraging the immense power of data to revolutionize business decisions and spark innovation. My mission is to synergize my academic insights in business analytics with hands-on proficiency in Python, SQL, and Machine Learning. I'm driven to be an influential data analyst, contributing to initiatives that emphasize data-centric decision-making and pioneering solutions.  
 
-## 🛠️ Skills
+ **🛠️ Skills**
 
 ### Languages
 <p>
