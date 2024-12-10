@@ -39,7 +39,7 @@
 **Capstone Final Project, IE University**: Investigating CAF train energy efficiencies using Python.  
 
 📫 **Connect With Me**  
-[LinkedIn](#) | [Email](#)  
+[LinkedIn](#) |
 
 I'm always open to new collaborations and ideas. Let's push the boundaries of data analytics and business intelligence together!  
 
