@@ -41,8 +41,7 @@
  **Binary Prediction of Smoker Status**: Developed machine learning models to predict smoking status using bio-signals. [GitHub Repo](https://github.com/yazyab/Binary-prediction-of-Smoker-status-using-Bio-Signals)  
  **PDA Credit Defaulter Prediction**: A machine learning model to predict credit defaulters with high accuracy. [GitHub Repo](https://github.com/yazyab/PDACreditDefaulterPrediction)  
 
-📫 **Connect With Me**  
-- **[LinkedIn](https://www.linkedin.com/in/yyabroudi/)**  
+📫 **Connect With Me** - **[LinkedIn](https://www.linkedin.com/in/yyabroudi/)**  
 
 I'm always open to new collaborations and ideas. Let's push the boundaries of data analytics and business intelligence together!  
 
